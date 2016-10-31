@@ -1,2 +1,2 @@
 # example
-Testing syntax for done
+Contains some examples on how github should integrate
